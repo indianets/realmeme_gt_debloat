@@ -26,6 +26,7 @@ com.heytap.themestore
 com.heytap.usercenter
 com.opos.cs
 com.redteamobile.roaming
+com.glance.internet
 
 com.facebook.appmanager
 com.facebook.services

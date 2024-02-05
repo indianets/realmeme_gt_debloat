@@ -10,7 +10,6 @@ com.coloros.backuprestore
 com.coloros.calculator
 com.coloros.childrenspace
 com.coloros.compass2
-com.coloros.deeptesting
 com.coloros.filemanager
 com.coloros.floatassistant
 com.coloros.gallery3d

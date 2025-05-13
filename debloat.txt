@@ -1,7 +1,5 @@
 com.amazon.appmanager
 com.android.chrome
-com.android.hotwordenrollment.okgoogle
-com.android.hotwordenrollment.xgoogle
 com.android.printspooler
 com.android.systemui.plugin.globalactions.wallet
 com.coloros.activation
@@ -9,7 +7,6 @@ com.coloros.assistantscreen
 com.coloros.backuprestore
 com.coloros.calculator
 com.coloros.childrenspace
-com.coloros.compass2
 com.coloros.filemanager
 com.coloros.floatassistant
 com.coloros.gallery3d
@@ -30,7 +27,6 @@ com.facebook.system
 com.finshell.fin
 com.glance.internet
 com.google.android.adservices.api
-com.google.android.apps.googleassistant
 com.google.android.apps.nbu.files
 com.google.android.apps.nbu.paisa.user
 com.google.android.apps.tachyon
@@ -40,7 +36,6 @@ com.google.android.apps.youtube.music
 com.google.android.calendar
 com.google.android.feedback
 com.google.android.googlequicksearchbox
-com.google.android.keep
 com.google.android.marvin.talkback
 com.google.android.onetimeinitializer
 com.google.android.partnersetup
@@ -69,6 +64,7 @@ com.oplus.logkit
 com.oplus.synergy
 com.oplus.themestore
 com.oplus.vdc
+com.oplus.metis
 com.opos.cs
 com.oppo.quicksearchbox
 com.oppo.sos
